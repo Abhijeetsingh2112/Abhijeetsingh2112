@@ -20,17 +20,17 @@ I build web apps, SaaS platforms and AI-powered automations for startups and sma
 | **WhiteRay Institute** | Custom ERP and staff-management system |
 | **Aquarium Reefers** | Full e-commerce store |
 
-> Most client code is private. The pinned repos below are open-source demos of the same patterns.
+> Client code is private under NDA — happy to walk through any of these projects on a call.
 
 ---
 
 ## 🛠 Tech stack
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Flutter
-**Backend:** Node.js · Express · REST APIs · Python · Authentication
-**Databases:** PostgreSQL · MongoDB · MySQL
-**AI & Automation:** Claude API · OpenAI API · AI agents · n8n · Prompt engineering
-**Cloud & Deploy:** AWS · Vercel · CI/CD
+- **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Flutter
+- **Backend:** Node.js · Express · REST APIs · Python · Authentication
+- **Databases:** PostgreSQL · MongoDB · MySQL
+- **AI & Automation:** Claude API · OpenAI API · AI agents · n8n · Prompt engineering
+- **Cloud & Deploy:** AWS · Vercel · CI/CD
 
 ---
 
